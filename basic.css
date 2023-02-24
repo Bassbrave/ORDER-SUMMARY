@@ -1,0 +1,21 @@
+body{text-align:center;
+    box-sizing: border-box;
+    background-color: rgb(206, 206, 238);
+}
+
+img{
+    width: 19px;
+    border-radius:10px;
+}
+.parent-order{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    text-align:center;
+    width:60%;margin-left:20%;
+    background:white;
+    border-radius:6%;
+}
+.summary{width:75%;}
+.projectimage{width:100%;border-bottom-left-radius:0;border-bottom-right-radius:0 ;}
